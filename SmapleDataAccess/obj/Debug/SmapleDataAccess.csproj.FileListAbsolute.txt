@@ -1,0 +1,7 @@
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SmapleDataAccess\bin\Debug\SmapleDataAccess.exe.config
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SmapleDataAccess\bin\Debug\SmapleDataAccess.exe
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SmapleDataAccess\bin\Debug\SmapleDataAccess.pdb
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SmapleDataAccess\obj\Debug\SmapleDataAccess.csprojAssemblyReference.cache
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SmapleDataAccess\obj\Debug\SmapleDataAccess.csproj.CoreCompileInputs.cache
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SmapleDataAccess\obj\Debug\SmapleDataAccess.exe
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SmapleDataAccess\obj\Debug\SmapleDataAccess.pdb
